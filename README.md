@@ -28,6 +28,7 @@
 		Winning Vote Count: 272,892
 		Winning Percentage: 73.8%
 
-Election-Audit Summary
-One proposal I have is to run this program to determine the outcome of a bill. We can modify the program to identify results of proposed legislation. The program could then print the name of bill, number of yes votes, the number of no votes, and a pass for those bills that pass.  
-A second proposal I have is to compare voter turnout with the number of registered voters. It would be nice to see the percentage of registered voters that voted. We can then break this down by county. For each county the program could print the number of county votes, the number of registered voters and percentage of voter turnout. 
+**Election-Audit Summary**
+	One proposal I have is to run this program to determine the outcome of a bill. We can modify the program to identify results of proposed legislation. The program could then print the name of bill, number of yes votes, the number of no votes, and a pass for those bills that pass. 
+
+	A second proposal I have is to compare voter turnout with the number of registered voters. It would be nice to see the percentage of registered voters that voted. We can then break this down by county. For each county the program could print the number of county votes, the number of registered voters and percentage of voter turnout. 
